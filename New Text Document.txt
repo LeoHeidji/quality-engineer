@@ -3,6 +3,10 @@ ipsnae
 asdasdfasdf
 asdasdfadf
 
+<<<<<<< HEAD
 farafafafafa
 
 furururuffru
+=======
+farafafafafa
+>>>>>>> 6f6605d87565eff2b621807783e489c5f9a13d0a
